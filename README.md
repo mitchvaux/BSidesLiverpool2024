@@ -2,5 +2,5 @@
 
 Flipper Zero Red Team PEN TESTING webinar by Mitchell Shone 
 
-Bsides Event has unfortunetly been cancled due to venue owners going on strike
+Bsides Event has unfortunately been cancelled due to venue owners going on strike
 dates of future events will be later in the year hopefully ! 
